@@ -17,3 +17,8 @@
 - **Contact Information:** Users can easily find Omnifood's contact details, making it convenient for them to get in touch with any inquiries or issues.
 
 - **Testimonials:** Customer testimonials or reviews may be included to build trust and confidence in Omnifood's service.
+
+**Tech Stacks**
+- HTML
+- CSS
+- JavaScript
