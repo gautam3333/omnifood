@@ -1,8 +1,6 @@
 ## 🍲 Omnifood
 
-<p>
-    The Omnifood project is a static webpage designed to provide an engaging and user friendly experience for a food delivery service. It combines the principles of HTML, CSS and a touch of JavaScript to create a visually appealing and functional website.
-</p>
+The [Omnifood](https://omnifood-0166073b.vercel.app/) project is a static webpage designed to provide an engaging and user friendly experience for a food delivery service. It combines the principles of HTML, CSS and a touch of JavaScript to create a visually appealing and functional website.
 
 **Key features:**
 
@@ -19,6 +17,7 @@
 - **Testimonials:** Customer testimonials or reviews may be included to build trust and confidence in Omnifood's service.
 
 **Tech Stacks**
+
 - HTML
 - CSS
 - JavaScript
